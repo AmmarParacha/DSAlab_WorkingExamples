@@ -6,7 +6,7 @@ package com.mycompany.sumofnaturalnumbers;
 
 /**
  *
- * @author dsu-9
+ * @author dsu
  */
 import java.util.Scanner;
 
